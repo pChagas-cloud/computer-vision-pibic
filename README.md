@@ -5,3 +5,5 @@
 <p> Além disso, também deixei no /tensorflow uma tentativa do uso de um modelo de rede neural para a análise síncrona de imagens, infelizmente não consegui realizar a fase de treinamento por limitações de hardware, estou procurando algumas alternativas para superar esse problema ! </p>
 
 <p> Aprendi usando esse tutorial: https://www.youtube.com/watch?v=01sAkU_NvOY&t=14263s </p>
+
+<p> Demonstração do protótipo: https://www.youtube.com/watch?v=Db6tQUR-z68 </p>
